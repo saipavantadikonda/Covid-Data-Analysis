@@ -39,5 +39,5 @@ We as a team plan to analyze the covid-19 data provided by usafacts.org along wi
 
 * Anaconda Navigator (Jupyter Notebook) is installed from https://www.anaconda.com/products/distribution
 * For installing libraries in anaconda terminal use the command conda install -c anaconda libraryname
-* Clone this git repository by using git clone "https://github.com/Silpa258/CSC-605-Spring2023-project-Vier.git" in your terminal or cmd. Also you can use GitHub Desktop app (https://desktop.github.com/) to clone this repository.
+* Clone this git repository by using git clone "(https://github.com/saipavantadikonda/Covid-Data-Analysis.git)" in your terminal or cmd. Also you can use GitHub Desktop app (https://desktop.github.com/) to clone this repository.
 * Now you should be able to run the code in your local computer as we maintained relative pathing everywhere.
